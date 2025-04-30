@@ -2,6 +2,7 @@ Esta API permitirá realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar
 "Clientes". El objetivo principal es alcanzar el Nivel 3 del Modelo de Madurez de Richardson, lo que implica ir más allá
 de la simple utilización de HTTP como transporte y abrazar sus principios de hipermedia.
 
+
 📚 Características
 
 • CRUD completo para recursos Productos y Clientes.
@@ -13,6 +14,8 @@ de la simple utilización de HTTP como transporte y abrazar sus principios de hi
 • Integración con base de datos mediante JPA/Hibernate.
 
 • Documentación auto-generada con Swagger/OpenAPI.
+
+
 
 ⚙️ Arquitectura y Herramientas
 | Componente |Descripción | 
